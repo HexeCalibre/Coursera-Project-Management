@@ -1,7 +1,7 @@
 # Using buzzwords in your job search
 You now know how to start searching for project management jobs! Job searching can be a time of self-reflection, growth, and excitement. Add a career path change into the mix, and it can also seem intimidating. We are about to give you some tips to help you in your job search efforts, including introducing you to some common buzzwords and skills that commonly appear in job descriptions.
 
-![]()
+![Image of magnifying glass](/Foundations%20of%20Project%20Management/img/image-of-magnifying-glass.png)
 
 ## Using buzzwords and skills in your job search
 In an earlier video, we mentioned **buzzwords**—words or phrases that are popular for a period of time or in a particular industry. In today’s job market, buzzwords like data-driven, team player, and self-starter are common. You may see terms like these show up throughout your searches. 
@@ -16,13 +16,13 @@ Similarly, many job descriptions list the specific skills they require candidate
 
 Take a look at the skills required for this position. The job description lists each of the terms that we talked about or a variation of these terms.
 
-![]()
+![Project Manager Example](/Foundations%20of%20Project%20Management/img/project-manager-example.png)
 
 You may also come across positions in your search that do not include the title “Project Manager” or any of the job titles we previously discussed, but you shouldn’t rule these positions out. In many cases, the job description will include project management experience and expectations, but the position may be called something else entirely. 
 
 Look at some of the job responsibilities required for a position titled “Operations Associate.” This position is a type of project manager. You will find that most project management-related job descriptions call for the **ability to plan, organize, monitor**, and **execute tasks**—all skills you will be able to do once you complete this certification.
 
-![]()
+![Operations Associate Example](/Foundations%20of%20Project%20Management/img/operations-associate-example.png)
 
 ## Common project management buzzwords
 Including buzzwords and skills in your job search can help you find jobs that are ideal for you and your skill set. Once you have found a position you want to apply for, listing buzzwords and skills that are relevant to the position can also help recruiters and hiring managers identify you as a qualified and knowledgeable candidate. 
