@@ -34,7 +34,9 @@ Understanding where we are and where we are going helps the project team determi
 #### Key takeaway
 Remember, all projects encounter change. All parties must have continuous access and alignment to the success criteria agreed upon to avoid scope creep (uncontrolled change of the project’s scope) or failed expectations at the end of the project. It’s important to document success criteria upfront and continue to report on it throughout the project. [You can 
 make a copy of this document](https://docs.google.com/document/d/1E3OwXHMb25DpWHeJXzff9wqjuJSO6KH9aijNUAIUNpQ/template/preview?resourcekey=0-vgOO8PhLm_19ztOHb4eLJw)
- to help you get alignment 
+ to help you get alignment or download it here:
+
+- [Success Criteria Template](/Starting%20a%20Successful%20Project/Module%202/Success-Criteria-Template.docx)
 
  Check out the attached article about how to manage the expectations of stakeholders when defining success criteria.
 
