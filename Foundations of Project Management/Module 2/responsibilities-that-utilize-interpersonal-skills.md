@@ -4,7 +4,7 @@
 The project manager is responsible for planning, organizing, managing tasks, budgeting, controlling costs, and other factors to help keep the project within budget and on time. 
 
 What does that mean? Basically, as the project manager, you will be responsible for tracking the day-to-day details of the project, but you will also have an opportunity to step back and see the bigger picture of the overall project.
-
+  
 Depending on the project and organization, you may also have responsibilities that utilize your interpersonal skills. **Interpersonal skills** are the behaviors you use to interact with others, such as communication, active listening, and leadership.
 
 Let's review these responsibilities.

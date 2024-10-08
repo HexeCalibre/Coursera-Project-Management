@@ -19,6 +19,8 @@ We have talked about the skills that project managers need to be successful in t
 
 ![Image of a person with a long list of details](/Foundations%20of%20Project%20Management/img/image-of-a-person-with-a-long-list-of-details.png)
 
+## Myth: You have to know every single detail about the project at all times.
+
 **Reality**: Details matter in project execution, but as a project manager, you must also focus on the big picture and strategy for the project. What is the end goal? Do you and your team have a clear direction? If the whole team understands their objectives and has what they need to be successful in their tasks, they can work on the individual details and provide you space to supervise the overall project goals. Open lines of communication will help ensure that your team members share any possible risks to the budget or schedule with you. 
 
 **Scenario**: Yui is a project manager working for a clothing company. The company is developing a new line of winter sleepwear that is set to launch in late October. Yui meets with the key stakeholders to determine their goals and timeline for the project. She recruits employees from the merchandising, exports, marketing, materials, production, and quality control departments to be a part of the project team. Yui meets with her team at the start of the project to clarify the objectives for the product line and checks in with them regularly to remove any barriers and find out where they need additional support. When a team member from the materials department informs Yui that the fabric they were planning on using for a particular style of pajamas has increased in price, Yui works with the team member to find a new supplier so that the overall project budget is not impacted. 
