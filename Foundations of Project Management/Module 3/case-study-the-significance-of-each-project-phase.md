@@ -1,7 +1,6 @@
 # Case study: The significance of each project phase
 
 ## The consequences of rushing through a project phase
-The consequences of rushing through a project phase
 It’s Friday night when Jason, a project manager at a company that specializes in virtual reality software, receives an urgent call from his manager, Mateo. Mateo tells Jason that he needs a cost and timeline for a virtual reality training program for Flight Simulators, Inc., a company that does aircraft maintenance, by the end of the weekend.
 
 Jason spends the weekend working through a proposal for Flight Simulators, Inc. He quickly throws together a proposal estimating that it will cost $200,000 and take six weeks to develop the course. This is the standard cost and time frame for developing training on his company’s platform. He sends the proposal over to Flight Simulators, Inc. so that he can meet their deadline. 
