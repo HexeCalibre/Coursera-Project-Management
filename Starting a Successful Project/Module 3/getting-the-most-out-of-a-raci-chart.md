@@ -4,7 +4,7 @@ In an earlier video, you learned how critical a **RACI chart** is for creating c
 ## Definition and structure
 Determining who is **R**esponsible, **A**ccountable, **C**onsulted and **I**nformed on your projects allows you to keep control of the stakeholders roles on your project.  
 
-![]()
+![Example of a RACI chart with project owners on the top and tasks on the left and each one associated with an R, A, C or I](/Starting%20a%20Successful%20Project/img/example-of-a-raci-chart-with-project-owners-on-the-top-and-tasks-on-the-left-and-each-one-associated-with-an-r-a-c-or-i.png)
 
 ## Workload balance
 Are there too many tasks assigned to one stakeholder? When you complete your chart, it is a good idea to go back through and tally the number of Rs assigned to each stakeholder. This can help you identify potentially overloading one team member with work. Using a RACI chart to determine responsibility for tasks can help mitigate single points of failure (known as creating silos, where the knowledge and responsibility for a task falls on one person) and allow you, as the project manager, to delegate tasks and avoid burnout. Maintaining workload balance is a critical part of project management. It is easy to fall into the pattern of relying on your top performers to keep the project moving forward. But this isn’t always healthy for the project or your team. If you find that you don’t have the right people to assign responsibilities to, take a step back and evaluate your team. 
